@@ -20,7 +20,7 @@ from matplotlib.lines import Line2D
 from shapely.ops import unary_union
 
 # ---------------- config ----------------
-AUTHOR = "Steph"
+AUTHOR = "Your Name"
 CRS = "EPSG:32651"                 # UTM 51N (metres)
 SPEED_KMH = 4.8
 MINUTES = 15
